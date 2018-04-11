@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { CoreComponent } from './core/core.component';
-import { RouterModule, Routes } from '@angular/router';
+import { RouterModule, Routes, RouterLink } from '@angular/router';
 import { HomeComponent } from '../home/home/home.component';
 import { FormComponent } from '../form/form/form.component';
 
